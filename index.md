@@ -8,7 +8,7 @@
       <p><b>地址：宁波市浙江万里学院，
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      %iphone 022.JPG
+      <img src="/zhengjianzhao.jpg" width="100%">      % https://github.com/iphone%20022.JPG
     </td>
   </tr>
 </table>
